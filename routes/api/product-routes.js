@@ -18,6 +18,7 @@ router.get('/', (req, res) => {
     include: [
       {
         model: Category,
+        as: "categories",
         attributes: ["id", "category_name"],
       },
       {
@@ -51,6 +52,7 @@ router.get('/:id', (req, res) => {
     include: [
       {
         model: Category,
+        as: "categories",
         attributes: ["id", "category_name"],
       },
       {
