@@ -10,4 +10,6 @@ The back end for an e-commerce site the enables the user to edit the companies i
 * Run the command npm start to initiate the program.
 
 ## Walkthrough
+Link to video of application being implemented below.
 
+https://drive.google.com/file/d/1PaLCLSKedQWODDslkgsqvhD0yrMdHvrM/view
